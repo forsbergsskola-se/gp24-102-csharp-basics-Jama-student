@@ -1,0 +1,14 @@
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\bin\Debug\net8.0\P09Operators.exe
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\bin\Debug\net8.0\P09Operators.deps.json
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\bin\Debug\net8.0\P09Operators.runtimeconfig.json
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\bin\Debug\net8.0\P09Operators.dll
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\bin\Debug\net8.0\P09Operators.pdb
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\obj\Debug\net8.0\P09Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\obj\Debug\net8.0\P09Operators.AssemblyInfoInputs.cache
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\obj\Debug\net8.0\P09Operators.AssemblyInfo.cs
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\obj\Debug\net8.0\P09Operators.csproj.CoreCompileInputs.cache
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\obj\Debug\net8.0\P09Operators.dll
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\obj\Debug\net8.0\refint\P09Operators.dll
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\obj\Debug\net8.0\P09Operators.pdb
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\obj\Debug\net8.0\P09Operators.genruntimeconfig.cache
+C:\Users\jamaf\source\repos\P09Operators\P09Operators\obj\Debug\net8.0\ref\P09Operators.dll
